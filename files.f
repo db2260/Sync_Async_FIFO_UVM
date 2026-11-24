@@ -1,0 +1,9 @@
+../rtl/sync_2ff.sv
+../rtl/async_fifo.sv
+../tb/async_fifo_sva.sv
+fifo_cfg_pkg.sv
+wr_if.sv
+rd_if.sv
++incdir+.
+fifo_pkg.sv
+tb_top.sv
